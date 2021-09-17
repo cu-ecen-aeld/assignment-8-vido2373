@@ -1,4 +1,5 @@
 *.o
+actions-runner/
 build/
 .vscode/
 *.log
